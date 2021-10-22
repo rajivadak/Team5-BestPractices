@@ -4,8 +4,6 @@ void prime(int n)
 {
   
   int i, flag = 0;
-  printf("Enter a +ve integer: ");
-  scanf("%d", &n);
 
   for (i = 2; i <= n-1; ++i) {
     if (n % i == 0) {
