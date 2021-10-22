@@ -4,7 +4,7 @@
 int main ()
 {
     int n = 9;
-    cout << fibo(n);
+    printf( "%d" ,fibo(n));
     getChar();
     return 0;
 }
