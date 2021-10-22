@@ -9,4 +9,5 @@ int main()
     //scanf("%d",&l);
     //scanf("%d",&r);
     count(l,r);
+    return 0;
 }
