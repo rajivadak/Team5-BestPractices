@@ -4,6 +4,6 @@
 
 #include<stdio.h>
 
-void prime(int a);
+void prime(int n);
 
 #endif 
