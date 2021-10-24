@@ -10,7 +10,5 @@ int sum(int s , int arr[])
       sum = sum + arr[i];      
    }
 
-   printf("Sum of the numbers is %d.", sum);   
-
-   return 0;
+   return sum;
 }
